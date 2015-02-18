@@ -1,3 +1,3 @@
 <?php
-	$test = "Ver1_0";
+	$test = "Ver1_0"
 ?>
